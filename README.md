@@ -1,9 +1,9 @@
 Buenas, tudo certo? Sou Gabriel Dal Piaz
 
 
-- 🌎 Brazil;
-- 🚨 A procura de emprego na área de desenvolvimento;
-- 👨‍🎓 Estudante, em constante busca por novos aprendizados;
+- 🌎 Brasil;
+- 🚨 Atualmente estudando;
+- 👨‍🎓 Em constante busca por novos aprendizados;
 - 🙋‍♂️ Grande fã de esportes:
 
 <div align="center">
